@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+# search_suggestion_component_demo
+IMDB Search Demo using ReactJs
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,7 +71,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# search_suggestion_component_demo
-IMDB Search Demo using ReactJs
->>>>>>> dc01f502c26565763ddfe6e942c83bf781d80a59
